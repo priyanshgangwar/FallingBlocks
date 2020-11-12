@@ -1,6 +1,7 @@
 import pygame
-import friend
+
 import enemy
+import friend
 
 width, height = 800, 600
 block_size = 40
